@@ -1,12 +1,12 @@
-// import s from "./Description.module.css";
+import s from "./Description.module.css";
 
 function Description() {
   return (
-    <header>
-      <h1> Sip Happens Café</h1>
-      <p>
+    <header className={s.header}>
+      <h1 className={s.title}> Sip Happens Café</h1>
+      <p className={s.text}>
         Please leave your feedback about our service by selecting one of the
-        options below.
+        options below 👇🏽
       </p>
     </header>
   );

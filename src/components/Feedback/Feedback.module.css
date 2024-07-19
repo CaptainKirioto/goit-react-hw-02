@@ -1,0 +1,26 @@
+.feedback {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.feedbackList {
+  margin-bottom: 10px;
+  padding: 10px;
+  width: 70px;
+  color: rgb(39, 19, 0);
+
+  border: 1px solid rgb(39, 19, 0);
+  border-radius: 5px;
+  background-color: rgb(230, 226, 220);
+}
+
+.feedbackSummary {
+  padding: 10px;
+  width: 100px;
+  color: rgb(230, 226, 220);
+  background-color: rgb(39, 19, 0);
+  border: 1px solid rgb(39, 19, 0);
+  border-radius: 5px;
+}

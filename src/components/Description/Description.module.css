@@ -1,0 +1,29 @@
+.header {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  text-align: center;
+  color: rgb(39, 19, 0);
+}
+
+.title {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  width: 300px;
+  padding: 10px;
+
+  font-style: italic;
+  border: 1px solid rgb(39, 19, 0);
+  border-radius: 50px;
+  background-color: rgb(182, 168, 151);
+}
+
+.text {
+  display: inline-block;
+  border: 1px solid rgb(39, 19, 0);
+  border-radius: 10px;
+  padding: 10px;
+
+  background-color: rgb(86, 53, 23);
+  color: rgb(230, 226, 220);
+}
